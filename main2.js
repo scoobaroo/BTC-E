@@ -1,5 +1,5 @@
 var BTCE = require('btc-e'),
-    btceTrade = new BTCE("KXB6KT0F-4AJM5O2A-3ZRSF5L1-2X0VNBLS-B9BXAK8N", "f1d24fd6adc2ff1f2b8a8b5a03c1a87d34133e4f248a5eab32fb755539c3b696"),
+    btceTrade = new BTCE("", ""),
     // No need to provide keys if you're only using the public api methods. 
     btcePublic = new BTCE();
  
